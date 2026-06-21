@@ -27,7 +27,7 @@ const Contact = () => {
       setStatus("");
 
       const response = await axios.post(
-        "https://portfolio-backend.onrender.com/api/contact",
+        "https://portfolio-website-lzrt.onrender.com/api/contact",
         formData
       );
 
