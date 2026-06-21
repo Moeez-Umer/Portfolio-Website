@@ -217,9 +217,9 @@ This portfolio is part of my journey toward becoming an AI/ML Engineer and Full-
 
 BSCS Student | MERN Stack Developer | AI/ML Enthusiast
 
-GitHub: Add Your GitHub Link
+GitHub: https://github.com/Moeez-Umer
 
-LinkedIn: Add Your LinkedIn Link
+LinkedIn: www.linkedin.com/in/moeez-umer
 
 ---
 
